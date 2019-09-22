@@ -54,3 +54,6 @@ https://travis-ci.org/
        Access key ID / Secret Access key ID
 
   * Add deploy options to travis file
+  * Add EXPOSE to Dockerfile (only for AWS)
+  * Push changes to github 
+  * Go to Amazon Beanstalk, click deploy URL 
